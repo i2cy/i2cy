@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently a student of CDUT
 - 📫 How to reach me: 
   1. email: i2cy@outlook.com
   2. QQ: 2226997440
