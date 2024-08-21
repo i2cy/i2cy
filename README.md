@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python projects
-- 🌱 I’m currently studying in CDUT, majored in Electrical Engineering and Automation
 - 📫 How to reach me: 
   1. email: i2cy@outlook.com
   2. QQ: 2226997440
